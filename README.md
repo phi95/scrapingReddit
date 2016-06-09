@@ -22,3 +22,10 @@ email notification.
 Use some form of task scheduler to automate the program.
 
 Also be mindful of Reddit's terms such as no more than 1 request every 2 seconds.
+
+## How to send text messages instead of email
+
+To send text messages simply find the carrier email to SMS gateway. A quick
+Google search will do. Or a quick text message sent to email will tell.
+
+For example, "1234567890@text.att.net" is a carrier email to sms gateway for ATT.
